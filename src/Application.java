@@ -6,9 +6,4 @@ public class Application {
 
 	}
 
-	private static void MyFrame() {
-		// TODO Auto-generated method stub
-		
-	}
-
 }
